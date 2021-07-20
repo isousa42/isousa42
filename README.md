@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 My name is Inês Sousa</h1>
 <h3 align="center">I am a Developer and a Student from 42Lisboa. I'm passionate about learning new things!</h3>
 
-- 🔭 Now I’m working on **coding my own Printf function!**
+- 🔭 Now I’m working on **coding my own version of Bash Terminal**
 
 - 🌱 I’m currently learning **C language.**
 
