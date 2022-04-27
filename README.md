@@ -3,7 +3,7 @@
 
 - 🔭 Now I’m working on **coding my own version of Bash Terminal**
 
-- 🌱 I’m currently learning **C language.**
+- 🌱 I’m currently learning **C++ language.**
 
 - 💬 Ask me about **anything, I will help if I can.**
 
