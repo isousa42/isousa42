@@ -1,3 +1,5 @@
+![](https://github.com/isousa42/Banner.png) 
+
 <h1 align="center">Hi there! 👋 My name is Inês Sousa</h1>
 <h3 align="center">I am a Developer and a Student from 42Lisboa. I'm passionate about learning new things!</h3>
 
